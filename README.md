@@ -1,3 +1,5 @@
-Try
-#go run main.go 
-#telnet localhost 8080
+try: 
+
+`go run main.go` 
+
+`telnet localhost 8080` 
