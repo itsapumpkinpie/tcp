@@ -1,4 +1,3 @@
-go run main.go 
-
-in the terminal
-telnet localhost 8080
+Try
+#go run main.go 
+#telnet localhost 8080
